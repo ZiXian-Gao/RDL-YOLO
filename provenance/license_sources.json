@@ -1,0 +1,27 @@
+[
+  {
+    "file": "RepViT-Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/THU-MIG/RepViT/main/LICENSE",
+    "status": "downloaded"
+  },
+  {
+    "file": "ToST-MIT.txt",
+    "url": "https://raw.githubusercontent.com/RobinWu218/ToST/main/LICENSE",
+    "status": "downloaded"
+  },
+  {
+    "file": "EVSSM-MIT.txt",
+    "url": "https://github.com/kkkls/EVSSM/blob/master/license",
+    "status": "downloaded"
+  },
+  {
+    "file": "Mona-subtree-Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/Leiyi-Hu/mona/master/Swin-Transformer-Classification/LICENSE",
+    "status": "downloaded"
+  },
+  {
+    "file": "DyT-license.txt",
+    "url": "https://github.com/jiachenzhu/DyT/blob/main/LICENSE",
+    "status": "downloaded"
+  }
+]

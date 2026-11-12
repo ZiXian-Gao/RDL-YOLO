@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the RDL-YOLO research code."
+type: software
+title: "RDL-YOLO research code"
+version: 0.1.0
+repository-code: "https://github.com/ZiXian-Gao/RDL-YOLO"
+authors:
+  - family-names: Li
+    given-names: Dachao
+  - family-names: Gao
+    given-names: Zixian
+  - family-names: Chen
+    given-names: Jintao
+  - family-names: Shi
+    given-names: Taisen
+  - family-names: Zhou
+    given-names: Jie
+  - family-names: Zhao
+    given-names: Zhengtian
+license: AGPL-3.0-or-later

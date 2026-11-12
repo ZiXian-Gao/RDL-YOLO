@@ -1,0 +1,182 @@
+{
+  "selected_operators": [
+    {
+      "file": "backbone/repvit.py",
+      "definition": "Conv2d_BN",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "backbone/repvit.py",
+      "definition": "RepVGGDW",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/attention.py",
+      "definition": "EMA",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/attention.py",
+      "definition": "AttentionTSSA",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/mona.py",
+      "definition": "LayerNorm2d",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/mona.py",
+      "definition": "MonaOp",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/mona.py",
+      "definition": "Mona",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/EVSSM.py",
+      "definition": "EDFFN",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "Residual",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "RepViTBlock",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "RepViTBlock_EMA",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "C3k_RVB",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "C3k2_RVB",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "C3k_RVB_EMA",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/block.py",
+      "definition": "C3k2_RVB_EMA",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/transformer.py",
+      "definition": "DynamicTanh",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/transformer.py",
+      "definition": "TSSAlock_DYT_Mona_EDFFN",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/transformer.py",
+      "definition": "C2TSSA_DYT_Mona_EDFFN",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/head.py",
+      "definition": "Scale",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/head.py",
+      "definition": "Conv_GN",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/head.py",
+      "definition": "MLP",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/head.py",
+      "definition": "LQE",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    },
+    {
+      "file": "extra_modules/head.py",
+      "definition": "Detect_LSCD_LQE",
+      "ast_equal": true,
+      "source_file_hash_matches": true
+    }
+  ],
+  "core_inherited_classes": [
+    {
+      "definition": "C3k",
+      "ast_equal": true
+    },
+    {
+      "definition": "C3k2",
+      "ast_equal": true
+    },
+    {
+      "definition": "C2f",
+      "ast_equal": true
+    },
+    {
+      "definition": "C3",
+      "ast_equal": true
+    },
+    {
+      "definition": "Bottleneck",
+      "ast_equal": true
+    },
+    {
+      "definition": "C2PSA",
+      "ast_equal": true
+    },
+    {
+      "definition": "PSABlock",
+      "ast_equal": true
+    },
+    {
+      "definition": "Attention",
+      "ast_equal": true
+    },
+    {
+      "definition": "DFL",
+      "ast_equal": true
+    }
+  ],
+  "all_equal": true,
+  "historical_experiment_identity_established": false
+}

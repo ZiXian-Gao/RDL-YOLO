@@ -1,0 +1,7 @@
+# Example only. Replace all paths and class names with the released dataset metadata.
+path: /absolute/path/to/NiP-DET
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: replace_with_actual_class_name

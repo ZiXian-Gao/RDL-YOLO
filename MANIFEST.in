@@ -1,0 +1,6 @@
+include LICENSE THIRD_PARTY_NOTICES.md
+recursive-include configs *.yaml
+recursive-include licenses *
+recursive-include docs *.md *.json *.csv
+recursive-include provenance *.json
+recursive-include ultralytics *.yaml *.jpg *.png

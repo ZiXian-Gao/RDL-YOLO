@@ -1,0 +1,163 @@
+[
+  {
+    "file": "backbone/repvit.py",
+    "definition": "Conv2d_BN",
+    "source_start": 38,
+    "source_end": 60,
+    "source_sha256": "3e0d52c56c0daa6c83b3af0ccb44e15267dea585b03ef5dcc48164d7117e90ca"
+  },
+  {
+    "file": "backbone/repvit.py",
+    "definition": "RepVGGDW",
+    "source_start": 94,
+    "source_end": 132,
+    "source_sha256": "3e0d52c56c0daa6c83b3af0ccb44e15267dea585b03ef5dcc48164d7117e90ca"
+  },
+  {
+    "file": "extra_modules/attention.py",
+    "definition": "EMA",
+    "source_start": 24,
+    "source_end": 51,
+    "source_sha256": "4bde2507ce1008d1c02f156cc942ad66ee4ee58bc76ce764e93d254e94b8d579"
+  },
+  {
+    "file": "extra_modules/attention.py",
+    "definition": "AttentionTSSA",
+    "source_start": 1896,
+    "source_end": 1933,
+    "source_sha256": "4bde2507ce1008d1c02f156cc942ad66ee4ee58bc76ce764e93d254e94b8d579"
+  },
+  {
+    "file": "extra_modules/mona.py",
+    "definition": "LayerNorm2d",
+    "source_start": 5,
+    "source_end": 10,
+    "source_sha256": "7a536b759c114f2eae875f2e6660e02cb04f54a10e0f95f48cbbb34da722ed99"
+  },
+  {
+    "file": "extra_modules/mona.py",
+    "definition": "MonaOp",
+    "source_start": 12,
+    "source_end": 33,
+    "source_sha256": "7a536b759c114f2eae875f2e6660e02cb04f54a10e0f95f48cbbb34da722ed99"
+  },
+  {
+    "file": "extra_modules/mona.py",
+    "definition": "Mona",
+    "source_start": 35,
+    "source_end": 65,
+    "source_sha256": "7a536b759c114f2eae875f2e6660e02cb04f54a10e0f95f48cbbb34da722ed99"
+  },
+  {
+    "file": "extra_modules/EVSSM.py",
+    "definition": "EDFFN",
+    "source_start": 51,
+    "source_end": 90,
+    "source_sha256": "f670a6945792e0ced8caaca4663a59346dd36f7c7a06c6d9898bbc851b79b564"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "Residual",
+    "source_start": 4138,
+    "source_end": 4144,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "RepViTBlock",
+    "source_start": 5005,
+    "source_end": 5025,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "RepViTBlock_EMA",
+    "source_start": 5027,
+    "source_end": 5034,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "C3k_RVB",
+    "source_start": 5036,
+    "source_end": 5040,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "C3k2_RVB",
+    "source_start": 5042,
+    "source_end": 5045,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "C3k_RVB_EMA",
+    "source_start": 5058,
+    "source_end": 5062,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/block.py",
+    "definition": "C3k2_RVB_EMA",
+    "source_start": 5064,
+    "source_end": 5067,
+    "source_sha256": "e3f2e7b86b8eedabaf49cae26cfc7e65baff5ca0e0b18a112753e867df8dd70c"
+  },
+  {
+    "file": "extra_modules/transformer.py",
+    "definition": "DynamicTanh",
+    "source_start": 455,
+    "source_end": 475,
+    "source_sha256": "0c45f69d20acdae38931f026fc03764478979cffbc5574971c8854f73b263fdd"
+  },
+  {
+    "file": "extra_modules/transformer.py",
+    "definition": "TSSAlock_DYT_Mona_EDFFN",
+    "source_start": 756,
+    "source_end": 774,
+    "source_sha256": "0c45f69d20acdae38931f026fc03764478979cffbc5574971c8854f73b263fdd"
+  },
+  {
+    "file": "extra_modules/transformer.py",
+    "definition": "C2TSSA_DYT_Mona_EDFFN",
+    "source_start": 776,
+    "source_end": 780,
+    "source_sha256": "0c45f69d20acdae38931f026fc03764478979cffbc5574971c8854f73b263fdd"
+  },
+  {
+    "file": "extra_modules/head.py",
+    "definition": "Scale",
+    "source_start": 482,
+    "source_end": 497,
+    "source_sha256": "49a12032406edea96c949ff32dc842364f1a3879c20ae0a3feaa52c37225adeb"
+  },
+  {
+    "file": "extra_modules/head.py",
+    "definition": "Conv_GN",
+    "source_start": 499,
+    "source_end": 513,
+    "source_sha256": "49a12032406edea96c949ff32dc842364f1a3879c20ae0a3feaa52c37225adeb"
+  },
+  {
+    "file": "extra_modules/head.py",
+    "definition": "MLP",
+    "source_start": 1819,
+    "source_end": 1831,
+    "source_sha256": "49a12032406edea96c949ff32dc842364f1a3879c20ae0a3feaa52c37225adeb"
+  },
+  {
+    "file": "extra_modules/head.py",
+    "definition": "LQE",
+    "source_start": 1833,
+    "source_end": 1875,
+    "source_sha256": "49a12032406edea96c949ff32dc842364f1a3879c20ae0a3feaa52c37225adeb"
+  },
+  {
+    "file": "extra_modules/head.py",
+    "definition": "Detect_LSCD_LQE",
+    "source_start": 2024,
+    "source_end": 2098,
+    "source_sha256": "49a12032406edea96c949ff32dc842364f1a3879c20ae0a3feaa52c37225adeb"
+  }
+]

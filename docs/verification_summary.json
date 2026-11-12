@@ -1,0 +1,30 @@
+{
+  "checked_on": "2026-11-04",
+  "python": "3.13.2",
+  "platform": "Windows",
+  "unit_tests_passed": 11,
+  "selected_operator_asts_equal": 23,
+  "inherited_core_asts_equal": 9,
+  "all_eight_configurations_640_forward_pass": true,
+  "full_model_640_loss_backward_pass": true,
+  "serialization_exact_output_pass": true,
+  "synthetic_one_epoch_training_pass": true,
+  "synthetic_checkpoint_evaluation_pass": true,
+  "synthetic_checkpoint_prediction_pass": true,
+  "model_forward_benchmark_command_pass": true,
+  "wheel_build_pass": true,
+  "wheel_install_import_pass_with_system_site_packages": true,
+  "original_dataset_benchmark_reproduced": false,
+  "gpu_tested": false,
+  "export_tested": false,
+  "historical_checkpoint_compatibility_tested": false,
+  "release_recheck": {
+    "checked_on": "2026-11-12",
+    "unit_tests_passed": 11,
+    "selected_operator_asts_equal": 23,
+    "inherited_core_asts_equal": 9,
+    "source_distribution_build_pass": true,
+    "wheel_build_pass": true,
+    "wheel_cli_and_assets_pass_with_system_site_packages": true
+  }
+}
